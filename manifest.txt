@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+# Version 1.5.9
+
+NETWORK:
+*
+
+CACHE:
+index.html
+lib/game/main.js
+lib/game/entities/intro.js
+lib/game/entities/playerDeath.js
+lib/game/entities/player.js
+media/sounds/blip.mp3
+media/sounds/blip.ogg
