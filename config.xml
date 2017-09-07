@@ -17,6 +17,6 @@
       Stephan Grieger
   </author>
 
-  <icon src="/media/sprites/apple-icon-72x72.png" platform="android" qualifier="ldpi" />
+  <icon src="/media/sprites/apple-icon-72x72.png"/>
   
 </widget>
